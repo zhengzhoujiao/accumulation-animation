@@ -25,7 +25,7 @@ npm i accumulation-animation
 全局引用(main.js中)
 
 ```javascript
-import accumulationAnimation from "../package/accumulation-animation";
+import accumulationAnimation from 'accumulation-animation';
 
 Vue.use(accumulationAnimation)
 ```
