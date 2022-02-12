@@ -1,0 +1,26 @@
+{
+  "name": "accumulation-animation",
+  "version": "1.1.2",
+  "description": "为你的数据添加动态递增效果😀！",
+  "main": "accumulation-animation.umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengzhoujiao/accumulation-animation"
+  },
+  "keywords": [
+    "动态数据",
+    "数据递增",
+    "动态递增",
+    "数字累加",
+    "数据累加",
+    "数字递增",
+    "递增动效",
+    "递增动画",
+    "累加动画"
+  ],
+  "author": "01Jcoder",
+  "license": "MIT"
+}
